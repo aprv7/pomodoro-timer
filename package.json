@@ -1,6 +1,6 @@
 {
   "name": "pomodoro-react-app",
-  "homepage": "https://aprv7.github.io/pomodoro-app",
+  "homepage": "https://aprv7.github.io/pomodoro-timer",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
